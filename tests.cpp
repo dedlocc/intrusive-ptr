@@ -1,6 +1,6 @@
 #include "gtest/gtest.h"
 
-#include "solution.h"
+#include "intrusive_ptr.h"
 
 #include <thread>
 
